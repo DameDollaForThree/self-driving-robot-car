@@ -11,8 +11,8 @@
 <hr/>
 
 **Goal**: The robot car is able to 
-- "**sweep enemies**" with its arms when it senses a car within 10cm in front it.
-- **accelerate** when another car hits the bump at the back of it.
+- "**sweep enemies**" with its arms when it senses a car within 10cm in front of it.
+- **accelerate** when another car hits the bump switch at the back of it.
 - **make a turn** after sweeping other cars
 
 **Main Components**: an Arduino microcontroller, two micro-servos, robot car's parts, a bump switch, an analog distance sensor  

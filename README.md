@@ -1,6 +1,6 @@
 # self-driving-robot-car: Demon Slayer :)
 - Course: ***CSE 42***. Building and Programming Electronic Devices 
-- The assembly instructions can be found in the ***"Demon-Slayer-assembly.html"*** file.
+- The detailed assembly instructions can be found in the ***"Demon-Slayer-assembly.html"*** file.
 - Code can be found in the ***"Demon-Slayer-Test-Program"*** folder.
 
 ## Contributors
